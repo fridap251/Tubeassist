@@ -2,8 +2,6 @@ Core Components
 1. AWS Lambda Function
 
 Function Name: realtimechat
-Region: us-east-1 (US East - N. Virginia)
-ARN: arn:aws:lambda:us-east-1:833779331854:function:realtimechat
 
 2. Trigger Mechanism
 
