@@ -40,4 +40,4 @@ Response Delivery: Lambda returns the AI-generated response through API Gateway
 Real-Time Display: Frontend receives and displays the response to viewers
 
 You can Try here our link : 
-https://chic-daffodil-a95ae8.netlify.app
+https://chic-daffodil-a95ae8.netlify.app and https://cute-sfogliatella-bbfc8d.netlify.app/
